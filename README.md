@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: Nob[3v 16-17,2023
+- Class Date: Nov[16-17,2023
 - Facilitator: @Parul
 
 ## Class Resources

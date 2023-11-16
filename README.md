@@ -1,6 +1,8 @@
 # GitHub for Developers
 
-- Class Date: Dec[16-17,2023
+
+- Class Date: Nov[16-17,2023
+
 - Facilitator: @Parul
 
 ## Class Resources
